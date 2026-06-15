@@ -1,0 +1,10 @@
+title       = "gamek"
+baseURL     = "https://gamek-cli.tamnd.com/"
+description = "A command line for gamek."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/gamek-cli"
